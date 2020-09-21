@@ -1,0 +1,1 @@
+- always puts script at the bottom of body tag so html/css load first
